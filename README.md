@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Mirjalol002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, I am Mirjalol Sheraliyev
 
-<!---
-Mirjalol002/Mirjalol002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->how are you feeling today bro
+I'm a Software Engineer.
 
+BIO
+- 🏢 I'm currently studying at Najot ta'lim
+- ⚙️ My specialty : .net, asp.net, wpf, postgresql
+- 💻 My programming languages : .cs, .cpp
+- 📫 Connect with me https://t.me/Msheraliyev
+- 👀 I’m interested in reading books
+- ⚡️ Fun fact: I'm a huge fan of Chess
